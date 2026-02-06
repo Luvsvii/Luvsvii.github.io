@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Portfolio Saya</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Halo, saya [Nama Kamu]</h1>
+    <p>Web Developer | Mahasiswa | Freelancer</p>
+  </header>
+
+  <section>
+    <h2>Tentang Saya</h2>
+    <p>Saya sedang belajar membuat website dan ini adalah portfolio pertama saya.</p>
+  </section>
+
+  <section>
+    <h2>Project</h2>
+    <ul>
+      <li>Website Portfolio</li>
+      <li>Landing Page</li>
+      <li>To Do App</li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>© 2026 - Nama Kamu</p>
+  </footer>
+</body>
+</html>
